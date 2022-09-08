@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipesInPool", "1st task\PipesInPool.csproj", "{EC7D49FF-CB4D-437A-82F3-8203C15A6847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleepyTomCat", "SleepyTomCat\SleepyTomCat.csproj", "{5F3B8252-5A11-40F3-B365-1B18A4D34F0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harvest", "Harvest\Harvest.csproj", "{8339C3E7-4B90-4994-AA7A-BDA8B3E3F156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC7D49FF-CB4D-437A-82F3-8203C15A6847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7D49FF-CB4D-437A-82F3-8203C15A6847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7D49FF-CB4D-437A-82F3-8203C15A6847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7D49FF-CB4D-437A-82F3-8203C15A6847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3B8252-5A11-40F3-B365-1B18A4D34F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3B8252-5A11-40F3-B365-1B18A4D34F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3B8252-5A11-40F3-B365-1B18A4D34F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3B8252-5A11-40F3-B365-1B18A4D34F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8339C3E7-4B90-4994-AA7A-BDA8B3E3F156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8339C3E7-4B90-4994-AA7A-BDA8B3E3F156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8339C3E7-4B90-4994-AA7A-BDA8B3E3F156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8339C3E7-4B90-4994-AA7A-BDA8B3E3F156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {800A1D9A-34CC-4170-8111-F8018E7F8834}
+	EndGlobalSection
+EndGlobal
